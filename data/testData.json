@@ -1,0 +1,67 @@
+{
+        "Test Case 1": {
+            "page": "Web Application",
+            "column": "To Do",
+            "name": "Implement user authentication",
+            "tags": ["Feature", "High Priority"],
+            "credentials": {
+                "username": "admin",
+                "password": "password123"
+            }
+        },
+
+        "Test Case 2": {
+            "page": "Web Application",
+            "column": "To Do",
+            "name": "Fix navigation bug",
+            "tags": ["Bug"],
+            "credentials": {
+                "username": "admin",
+                "password": "password123"
+            }
+        },
+
+        "Test Case 3": {
+            "page": "Web Application",
+            "column": "In Progress",
+            "name": "Design system updates",
+            "tags": ["Design"],
+            "credentials": {
+                "username": "admin",
+                "password": "password123"
+            }
+        },
+
+        "Test Case 4": {
+            "page": "Mobile Application",
+            "column": "To Do",
+            "name": "Push notification system",
+            "tags": ["Feature"],
+            "credentials": {
+                "username": "admin",
+                "password": "password123"
+            }
+        },
+
+        "Test Case 5": {
+            "page": "Mobile Application",
+            "column": "In Progress",
+            "name": "Offline mode",
+            "tags": ["Feature", "High Priority"],
+            "credentials": {
+                "username": "admin",
+                "password": "password123"
+            }
+        },
+
+        "Test Case 6": {
+            "page": "Mobile Application",
+            "column": "To Do",
+            "name": "Push notification system",
+            "tags": ["Feature"],
+            "credentials": {
+                "username": "admin",
+                "password": "password123"
+            }
+        }
+}
